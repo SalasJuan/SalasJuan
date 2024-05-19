@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hello, nice to meet you my name is Salas Juan 👋
 
-<!--
-**SalasJuan/SalasJuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Studies:
+> Personal and Professional IT Technician
+<br>
 
-Here are some ideas to get you started:
+🔭 Proyects:
+<br>
+ Games 🎮
+ > <h3> Code Hunter </h3>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+> GIT, GitHub, GitKraken, GitFlow <br>
+> C <br>
+> C++
+<br>
+<br>
+
+🔍 I’m looking to collaborate on
+> Games 🖥️ ( **Only Pc**)
+<br>
+<br>
+
+📫 How to reach me: <br>
+⚒️...
+<br>
+<br>
+
+✋ Personal :
+> Name: Juan Salas ♂️
+> Years: 18
+> My Country: Argentina💙
+>  200hs Experience in Remote Interships (Blazor)
