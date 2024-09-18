@@ -7,29 +7,30 @@
 🔭 Proyects:
 <br>
  Games 🎮
- > <h3> Code Hunter </h3>
+ > <h3> Code Hunter 🛑⏱️</h3>
 <br>
 <br>
 
 🌱 I’m currently learning:
 > GIT, GitHub, GitKraken, GitFlow <br>
 > C <br>
-> C++
+> Java
 <br>
 <br>
 
 🔍 I’m looking to collaborate on
-> Games 🖥️ ( **Only Pc**)
+> Games 🖥️ <br>
+> Apps 
 <br>
 <br>
 
 📫 How to reach me: <br>
-⚒️...
+### [Linkedin 👥](https://www.linkedin.com/in/juan-salas-b469b2304)
 <br>
 <br>
 
 ✋ Personal :
 > Name: Juan Salas ♂️
-> Years: 18
+> Years: 19
 > My Country: Argentina💙
 >  200hs Experience in Remote Interships (Blazor)
