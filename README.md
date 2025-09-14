@@ -14,13 +14,17 @@
 
 ### Mis Proyectos 🔽
 
-<a href="https://github.com/SalasJuan" target="_blank">
+<a href="https://github.com/SalasJuan/CodeHunter" target="_blank">
+  <img width="184" height="168" alt="Please Reload Page" title="Code Hunter" 
+       src="https://github.com/user-attachments/assets/fd86b4e4-4bfa-4781-bf3a-a5cd5e6a74c4" />
+</a><a href="https://github.com/SalasJuan" target="_blank">
   <img width="184" height="168" alt="Please Reload Page" title="PlaceHolder" 
        src="https://github.com/user-attachments/assets/3d3f0c83-494c-4c34-badc-01cca26f7d09" />
 </a><a href="https://github.com/SalasJuan" target="_blank">
   <img width="184" height="168" alt="Please Reload Page" title="PlaceHolder" 
        src="https://github.com/user-attachments/assets/3d3f0c83-494c-4c34-badc-01cca26f7d09" />
 </a>
+
 
 ### Others 🔽
 
