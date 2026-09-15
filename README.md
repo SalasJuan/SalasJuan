@@ -12,7 +12,7 @@
 </table>
 
 
-### Mis Proyectos 🔽
+### Mis Proyectos
 
 <a href="https://github.com/SalasJuan/CodeHunter" target="_blank">
   <img width="184" height="168" alt="Please Reload Page" title="Code Hunter" 
@@ -26,15 +26,18 @@
 </a>
 
 
-### Others 🔽
+### Others
 
-<a href="https://github.com/SalasJuan" target="_blank">
+<a href="https://github.com/SalasJuan">
+  <img width="180" height="135" alt="Please Reload Page" title="Miño-y-Davila" 
+       src="https://github.com/user-attachments/assets/2c6e2ae8-5c2d-48d0-aa3d-bdddcb42a65b" />
+</a><a href="https://github.com/SalasJuan" target="_blank">
   <img width="140" height="124" alt="Please Reload Page" title="PlaceHolder" 
        src="https://github.com/user-attachments/assets/3d3f0c83-494c-4c34-badc-01cca26f7d09" />
 </a><a href="https://github.com/SalasJuan" target="_blank">
   <img width="140" height="124" alt="Please Reload Page" title="PlaceHolder" 
        src="https://github.com/user-attachments/assets/3d3f0c83-494c-4c34-badc-01cca26f7d09" />
-</a>
+</a><a href="https://github.com/SalasJuan" target="_blank">
 
 <br>
 <br>
@@ -48,7 +51,7 @@
 ----
 
 ### My GitHub Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalasJuan&layout=compact&theme=radical&hide=ShaderLab,HLSL)
+# . . .
 
 ### Connect with Me
 
