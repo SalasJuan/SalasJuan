@@ -17,10 +17,10 @@
 <a href="https://github.com/SalasJuan/CodeHunter" target="_blank">
   <img width="184" height="168" alt="Please Reload Page" title="Code Hunter" 
        src="https://github.com/user-attachments/assets/fd86b4e4-4bfa-4781-bf3a-a5cd5e6a74c4" />
-</a><a href="https://github.com/SalasJuan" target="_blank">
-  <img width="184" height="168" alt="Please Reload Page" title="PlaceHolder" 
-       src="https://github.com/user-attachments/assets/3d3f0c83-494c-4c34-badc-01cca26f7d09" />
-</a><a href="https://github.com/SalasJuan" target="_blank">
+</a>
+<a href="https://github.com/SalasJuan1" target="_blank"><img width="102" height="168" alt="Repo Frontend" src="https://github.com/user-attachments/assets/33c2a226-5c58-44f6-b3e4-1816016cef3c" /></a><a href="https://github.com/SalasJuan/API-Domestic-Control-Stock" target="_blank"><img width="107" height="168" alt="Repo Backend" src="https://github.com/user-attachments/assets/3b163226-1ab3-4975-b242-0036422a3d8d" /></a>
+
+<a href="https://github.com/SalasJuan" target="_blank">
   <img width="184" height="168" alt="Please Reload Page" title="PlaceHolder" 
        src="https://github.com/user-attachments/assets/3d3f0c83-494c-4c34-badc-01cca26f7d09" />
 </a>
